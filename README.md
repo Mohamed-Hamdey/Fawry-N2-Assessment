@@ -20,8 +20,8 @@ project/
 │
 ├── main.py       # Runs the application
 ├── radar.py      # QuRadar processing engine
-├── rules.py      # Traffic rule implementations
-├── models.py     # Data models (Observation, Violation, Fine)
+├── rules         # Traffic rule implementations
+├── models        # Data models (Observation, Violation, Fine)
 └── README.md
 ```
 
