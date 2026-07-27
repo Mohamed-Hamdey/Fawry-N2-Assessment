@@ -18,10 +18,10 @@ The project is designed to demonstrate the use of core OOP principles in Python.
 ```text
 project/
 │
-├── main.py       # Runs the application
-├── radar.py      # QuRadar processing engine
-├── rules         # Traffic rule implementations
-├── models        # Data models (Observation, Violation, Fine)
+├── main.py             # Runs the application
+├── quant_radar.py      # QuRadar processing engine
+├── rules               # Traffic rule implementations
+├── models              # Data models (Observation, Violation, Fine)
 └── README.md
 ```
 
